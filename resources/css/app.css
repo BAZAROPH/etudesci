@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+    .tab-active{
+        @apply text-white bg-etudes-blue;
+    }
+    .subscribe-authtab-active{
+        @apply text-white uppercase italic bg-etudes-orange font-bold;
+    }
+    .payment-authtab-active{
+        @apply text-white uppercase italic bg-etudes-blue font-bold;
+    }
+}
+.required::after{
+    content: ' *';
+    color: red;
+}
+
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+
+.tab-active{
+    color: white;
+    background-color: #143F7C;
+}
+
+@font-face {
+    font-family: "Afolkalips";
+    font-weight: regular;
+    src: url("../../public/site/assets/font/Afolkalips.ttf") format("truetype");
+}

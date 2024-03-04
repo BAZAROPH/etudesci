@@ -1,0 +1,95 @@
+.upload-label{
+    background-color: #ffff;
+    border-radius: 12px;
+    min-width: 18em;
+    min-height: 12em;
+    text-align:center;
+    border: 3px solid #143F7C;
+}
+
+.upload-label:hover{
+    cursor: pointer;
+    text-align:center;
+}
+
+.file-input{
+    display: none;
+}
+
+.upload-icon{
+    font-size: 10em
+}
+
+.preview-image{
+    max-height: 15em;
+    max-width: 15em;
+}
+
+.delete-image{
+    font-size: 1.2em;
+    margin-top: 4px;
+    color: red;
+
+}
+
+.delete-image:hover{
+    transition-duration: 0.3s;
+    background-color: red;
+    color: white;
+    padding: 6px;
+    border-radius: 0.3em;
+}
+
+.cursor-pointer:hover{
+    cursor: pointer;
+}
+
+.border-group{
+    border: 1px solid #143F7C;
+    border-radius: 0.7em;
+    padding: 1em;
+}
+
+.author-photo{
+    max-height: 2em;
+    max-widh:2em;
+}
+
+.required:after{
+    content: ' *';
+    color: red;
+}
+
+.doc-block{
+    min-height: 10em;
+    min-width: 100%;
+    border: solid 0.7px gray;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+.doc-upload-icon{
+    font-size: 5em;
+}
+
+.upload-doc-label{
+    background-color: #ffff;
+    border-radius: 12px;
+    min-width: 100%;
+    min-height: 12em;
+    text-align:center;
+    border: 1px solid gray;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.doc-preview-icon{
+    font-size: 3em;
+}
+
+.doc-preview-block{
+    border: solid 0.7px #143F7C;
+    border-radius: 1em;
+}

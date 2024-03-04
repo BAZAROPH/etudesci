@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Lobster";
+    font-weight: regular;
+    src: url("./Lobster-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "nu-century-gothic";
+    font-weight: regular;
+    src: url("./nu_century_gothic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto Mono";
+    font-weight: regular;
+    src: url("./RobotoMono-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Rubik";
+    font-weight: regular;
+    src: url("./Rubik-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Rubik";
+    font-weight: regular;
+    src: url("./Rubik-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Fredoka One";
+    font-weight: regular;
+    src: url("./FredokaOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Lilita One";
+    font-weight: regular;
+    src: url("./LilitaOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "EB Garamond";
+    font-weight: regular;
+    src: url("./EBGaramond-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-weight: regular;
+    src: url("./OpenSans-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-weight: regular;
+    src: url("./Montserrat-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-weight: regular;
+    src: url("./Poppins-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Oswald";
+    font-weight: regular;
+    src: url("./Oswald-VariableFont_wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    font-weight: regular;
+    src: url("./Ubuntu-Bold.ttf") format("truetype");
+}
